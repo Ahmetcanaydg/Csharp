@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ahmet_ndwhrh7\\source\\repos\\CsharpEgitimKampi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E8F4C0ED-78E3-452F-BD72-06E56B8A018F}|02_Variables\\02_Variables.csproj|c:\\users\\ahmet_ndwhrh7\\source\\repos\\csharpegitimkampi\\02_variables\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8F4C0ED-78E3-452F-BD72-06E56B8A018F}|02_Variables\\02_Variables.csproj|solutionrelative:02_variables\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC366663-B47D-4693-9E34-B492BDFD3BB3}|01_MainSubjects\\01_MainSubjects.csproj|C:\\Users\\ahmet_ndwhrh7\\source\\repos\\CsharpEgitimKampi\\01_mainsubjects\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC366663-B47D-4693-9E34-B492BDFD3BB3}|01_MainSubjects\\01_MainSubjects.csproj|solutionrelative:01_mainsubjects\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ahmet_ndwhrh7\\source\\repos\\CsharpEgitimKampi\\02_Variables\\Program.cs",
+              "RelativeDocumentMoniker": "02_Variables\\Program.cs",
+              "ToolTip": "C:\\Users\\ahmet_ndwhrh7\\source\\repos\\CsharpEgitimKampi\\02_Variables\\Program.cs",
+              "RelativeToolTip": "02_Variables\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAmwLEAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T08:39:52.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ahmet_ndwhrh7\\source\\repos\\CsharpEgitimKampi\\01_MainSubjects\\Program.cs",
+              "RelativeDocumentMoniker": "01_MainSubjects\\Program.cs",
+              "ToolTip": "C:\\Users\\ahmet_ndwhrh7\\source\\repos\\CsharpEgitimKampi\\01_MainSubjects\\Program.cs",
+              "RelativeToolTip": "01_MainSubjects\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA4wK8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T06:21:57.774Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
